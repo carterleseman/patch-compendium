@@ -58,6 +58,9 @@ Using SPID, this gives Irileth chitin light armor, and if you have [Kthonia's Un
 ## Kruziik Missing Textures Fix
 The [Temple of Kruziik](https://www.nexusmods.com/skyrimspecialedition/mods/47833) by [Archon Entertainment](https://next.nexusmods.com/profile/ArchonEntertainment?gameId=1704) (ported by [Milo49](https://next.nexusmods.com/profile/Milo49?gameId=1704)) has a pair of Nordic axes as a reward, but unforunately those axes have missing textures. This mesh replacer fixes that. A screenshot is provided on the Nexus page.
 
+## [Lollygaggin'](https://www.nexusmods.com/skyrimspecialedition/mods/117833) - Less Helmets
+Reduces the chance of guards wearing helmets by either 25%, 50% or 75%. Works for both Lollygaggin' and Vanilla. Optional to reduce Reach helmets worn by 100%. Pair with a mod that increases the pool of guard faces.
+
 ## Mesh Patches
 - [Assorted Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117?tab=description) - [Improved Dwemer Glass](https://www.nexusmods.com/skyrimspecialedition/mods/44553?tab=description)
 
