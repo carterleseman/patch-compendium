@@ -7,8 +7,9 @@ Because I can't stand the Nexus Mods editor.
 ## [Become A Whiterun Guard](https://www.nexusmods.com/skyrimspecialedition/mods/36247)
 I may not even use the become a guard functionality, but Luka has an enjoyable presence. If you like the diversity he brings to the guard, you may also like [Whiterun Battle Brothers](https://www.nexusmods.com/skyrimspecialedition/mods/36036).
 Supported Armor Mods:
-- [Guards Armor Replacer]
-- [Sons of Skyrim 2.0]
+- [Guards Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/22671)
+- [Sons of Skyrim 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/68656)
+- [Lollygaggin' - Vanilla Guard Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/117833)
 
 Credit to [Teabag86](https://next.nexusmods.com/profile/Teabag86?gameId=1704) for creating Luka.
 
@@ -42,6 +43,8 @@ When searching for an armor replacer for the Imperial Legion I came across [The 
 - [Bees' Extra NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/65619?tab=description)
 - [Better Courier](https://www.nexusmods.com/skyrimspecialedition/mods/40709)
 - [Filling In The Blanks](https://www.nexusmods.com/skyrimspecialedition/mods/51174) - New Guard Recruits
+- [Skyrim Cut Content Restoration](https://www.nexusmods.com/skyrimspecialedition/mods/90744)
+- [Granite Hill - Cut Content Restoration](https://www.nexusmods.com/skyrimspecialedition/mods/117585)
 
 ## Hidden Map Markers
 Very simple patches to make the map markers in these mods not visible (completely hidden on the map) until you find the location.
