@@ -47,6 +47,7 @@ When searching for an armor replacer for the Imperial Legion I came across [The 
 - [Granite Hill - Cut Content Restoration](https://www.nexusmods.com/skyrimspecialedition/mods/117585)
 - [Morrowind Mint](https://www.nexusmods.com/skyrimspecialedition/mods/129387)
 - [Skyrim Silver](https://www.nexusmods.com/skyrimspecialedition/mods/127897)
+- [Grand Solitude - The Walls of High King Erling](https://www.nexusmods.com/skyrimspecialedition/mods/157506)
 
 ## Hidden Map Markers
 Very simple patches to make the map markers in these mods not visible (completely hidden on the map) until you find the location.
